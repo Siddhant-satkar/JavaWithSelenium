@@ -6,5 +6,4 @@ public class Code_check {
 		// TODO Auto-generated method stub
 		System.out.println("Code check");
 	}
-
 }
